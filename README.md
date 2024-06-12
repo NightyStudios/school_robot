@@ -14,7 +14,7 @@
 ```python3 -m pip install -r requirements.txt```
 4. Запустите файл
 ```python3 file.py```
-5. Общайтесь с ботом!
+5. Общайтесь с ботом :)
 ```https://t.me/student_assistant_robot```
 
 # Что будет дальше
